@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-challenge-solved-via-flexbox-_ktDde7-u)
+- Live Site URL: [Live Site Demo](https://ckharrison.github.io/Single-Price-Grid-Component/)
 
 ## My process
 My first step in designing this page was to layout the HTML content in accordance to the desktop specifications, I find that it's easier to reason about the content that way. Then I layout the typography and general body styling of the page. I then moved on to designing the mobile layout first, and then finally add in media queries to make the layout match the wider screen specifications.
@@ -52,7 +52,7 @@ My first step in designing this page was to layout the HTML content in accordanc
 
 ## Author
 
-- Website - [CKHarrison.github.io](https://www.your-site.com)
+- Website - [CKHarrison.github.io](https://github.com/CKHarrison)
 - Frontend Mentor - [@CKHarrison](https://www.frontendmentor.io/profile/CKHarrison)
 
 
